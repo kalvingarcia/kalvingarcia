@@ -1,4 +1,4 @@
-![alt text](https://markdown-inline-svg.vitalibo.click/svg?source=https://raw.githubusercontent.com/kalvingarcia/kalvingarcia/refs/heads/main/README.md&name=sample.svg)
+![alt text](https://markdown-inline-svg.vitalibo.click/svg?source=https://raw.githubusercontent.com/kalvingarcia/kalvingarcia/refs/heads/main/README.md&name=logo.svg)
 
 ### Hi, I'm **Kalvin Garcia**!
 
@@ -20,14 +20,13 @@
 <summary>Logo Code</summary>
 
 ```
-@sample.svg
+@logo.svg
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg id="a" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1123.43 1180.23">
   <polygon points="212.23 0 212.26 1164.7 0 1164.67 0 0 212.23 0"/>
   <path d="M520.22,1164.7c-107.84,0-208.15-232.42-265.78-317.23,130.02-146.97,213.72-269.96,457.22-371.31v23.41c-79.87,28.22-226.78,105.66-316.8,227.76,86.97,153.4,195.18,380.96,386.12,412.11v25.26h-260.76Z"/>
   <circle cx="1002.22" cy="1059.02" r="121.21"/>
 </svg>
-@sample.svg
+@logo.svg
 ```
 </details>
