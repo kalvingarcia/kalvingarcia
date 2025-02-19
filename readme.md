@@ -1,5 +1,3 @@
-### Hi, I'm **Kalvin Garcia**!
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"
